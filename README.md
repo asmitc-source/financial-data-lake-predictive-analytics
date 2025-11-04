@@ -1,6 +1,5 @@
 # 💹 Financial Data Lake with Predictive Analytics  
 
-(https://github.com/asmitc-source/financial-data-lake-predictive-analytics/actions)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)

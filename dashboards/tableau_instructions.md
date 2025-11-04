@@ -1,0 +1,1 @@
+# Tableau Publishing Guide\n\nConnect to data/processed/*.csv and build: Portfolio Overview, Risk & Drawdown, Forecast Drill‑down, Sector Heatmap. Publish to Tableau Public and link in README.\n
